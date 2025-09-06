@@ -16,3 +16,17 @@ Week1.ipynb: Jupyter Notebook containing dataset preprocessing and visualization
 air_quality_sample.csv: Example dataset (for use with Google Colab upload).
 README.md: Project overview and milestone description.
 LICENSE: MIT License file.
+
+
+Week 2 - Machine Learning Model Implementation
+
+In Week 2, the focus was on selecting, implementing, and evaluating a machine learning model for air quality prediction.
+
+Tasks Completed:
+- Selected Linear Regression as the machine learning model.  
+- Trained the model to predict Ozone levels using features such as CO, NO2, PM2.5, PM10, Temperature, and Humidity.  
+- Evaluated the model using Mean Squared Error (MSE), Mean Absolute Error (MAE), and R² score.  
+- Visualized Actual vs Predicted Ozone levels through scatter plots.  
+
+Files:
+- `Week2.ipynb`: Jupyter Notebook containing model training, evaluation, and visualization.
