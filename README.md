@@ -30,3 +30,12 @@ Tasks Completed:
 
 Files:
 - `Week2.ipynb`: Jupyter Notebook containing model training, evaluation, and visualization.
+Week 3 - Deployment & Presentation
+
+- Trained and finalized the Random Forest Classifier for pollution level prediction.  
+- Evaluated model performance with Accuracy, Precision, Recall, and F1-score.  
+- Added Confusion Matrix and Feature Importance visualizations.  
+- Implemented a Streamlit demo for interactive predictions (Temperature, Humidity, PM2.5).  
+- Prepared PPT including dataset, methodology, results, and deployment demo.  
+
+Results: Achieved an accuracy of 50%
